@@ -1,0 +1,1 @@
+!function($){var n={config:{module:$("")},init:function(){var t=n.mainMethods();t.setup()},mainMethods:function(){function n(){$("#masthead").fitText(.59)}function t(){console.log("app.js is running and FitText is working on the header. They're included locally though you may want to use a cdn")}return{setup:function(){t(),n()}}}};$(document).ready(function(){n.init()})}(jQuery);
