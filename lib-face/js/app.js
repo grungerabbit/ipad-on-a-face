@@ -14,7 +14,7 @@
 			}     
 			
 			function helloWorld() {
-				console.log("app.js is running and FitText is working on the header. They're included locally though you may want to use a cdn")
+				console.log("iPad on a Face is brought to you by the letter E and the number 5.")
 			}
 			          
 			return {

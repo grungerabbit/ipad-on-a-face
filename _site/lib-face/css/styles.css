@@ -232,6 +232,16 @@ section:after {
   font-size: 0.5em;
   line-height: 1;
 }
+.troll {
+  margin-top: 1em;
+}
+.testimonial {
+  width: 50%;
+  float: left;
+}
+.testimonial img {
+  max-width: 100%;
+}
 @media only screen and (min-width: 40em) {
   .site p {
     font-size: 125%;
