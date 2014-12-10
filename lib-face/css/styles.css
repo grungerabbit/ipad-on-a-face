@@ -241,6 +241,7 @@ section:after {
 }
 .testimonial img {
   max-width: 100%;
+  padding: 0 1em;
 }
 @media only screen and (min-width: 40em) {
   .site p {
